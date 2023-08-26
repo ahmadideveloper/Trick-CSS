@@ -5,7 +5,7 @@
 ![TrickTransform](https://github.com/ahmadideveloper/portfolio2/assets/141068188/337b8c4a-38be-4641-842f-1a16210859b5)
 
 
-- 🔗 [Demo Project](https://ahmadideveloper.github.io/Travel-Agency/)
+- 🔗 [Demo Project](https://ahmadideveloper.github.io/Trick-CSS/)
 - 👨‍💻 developed by reza ahmadi
 - 📆 Created - 2023-08-26
 - 🤖 Technologies Used - Html , Sass

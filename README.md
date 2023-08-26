@@ -1,6 +1,6 @@
-# Trick-CSS
+# Trick-CSS-By-Sass
 
-**🛳️ Let's go visit the Trick**
+**🎈⚽ Let's go visit the Trick**
 
 ![TrickTransform](https://github.com/ahmadideveloper/portfolio2/assets/141068188/337b8c4a-38be-4641-842f-1a16210859b5)
 
